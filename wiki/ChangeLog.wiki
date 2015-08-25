@@ -1,0 +1,5 @@
+#summary 版本更新紀錄
+
+You could check zhpy's change log in svn
+
+http://zhpy.googlecode.com/svn/trunk/CHANGELOG.txt
